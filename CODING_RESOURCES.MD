@@ -1,0 +1,139 @@
+# Coding Resources
+
+## General
+### Free online courses - General
+- [Computation Structures](https://computationstructures.org/) - Introductory computer science course
+- [Getting Started Off Platform for Data Science](https://www.codecademy.com/learn/getting-started-off-platform-for-data-science)
+- [Learn X in Y Minutes: Dynamic Programming](https://learnxinyminutes.com/docs/dynamic-programming/)
+
+### Free online courses - For absolute beginners
+- [Learn How to Code](https://www.codecademy.com/learn/learn-how-to-code)
+- [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity)
+- [Fundamentals of Operating Systems](https://www.codecademy.com/learn/fundamentals-of-operating-systems)
+
+### Free online courses - Specific topics
+- [The Basics of Regex](https://www.codecademy.com/learn/introduction-to-regular-expressions)
+- [Learn SQL](https://www.codecademy.com/learn/learn-sql)
+- [Probability](https://www.codecademy.com/learn/probability-mssp)
+- [Learn X in Y Minutes: Lambda Calculus](https://learnxinyminutes.com/docs/lambda-calculus/)
+- [Differential Calculus](https://www.codecademy.com/learn/learn-differential-calculus)
+- [Linear Algebra](https://www.codecademy.com/learn/learn-linear-algebra)
+- [Discrete Math](https://www.codecademy.com/learn/discrete-math)
+- [Learn X in Y Minutes: Asymptotic Notations](https://learnxinyminutes.com/docs/asymptotic-notation/)
+- [Learn X in Y Minutes: Set Theory](https://learnxinyminutes.com/docs/set-theory/)
+
+### Books, information & study material
+- [Computer Science study guides](https://www.sparknotes.com/cs/)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [CoderProg](https://coderprog.com/) - Free e-books about programming
+- [Xahlee](http://xahlee.info/) - A website with 3.7 thousand articles about mathematics and programming
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan
+- [EbookFoundation's list of free programming e-books](https://github.com/EbookFoundation/free-programming-books)
+
+### Projects, puzzles & exercises
+- [Project Euler](https://projecteuler.net/) - Programming & mathematics puzzles
+- [The Deadlock Empire](https://deadlockempire.github.io/) - Interactive game
+- [Untools](https://untools.co/) - Thinking tools for programmers
+
+
+## C, C++ & C#
+### Free online courses - C
+- [Learn C](https://www.codecademy.com/learn/learn-c)
+
+### Free online courses - C++
+- [Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
+- [C++ for Programmers](https://www.codecademy.com/learn/c-plus-plus-for-programmers)
+
+### Free online courses - C#
+- [Learn C#](https://www.codecademy.com/learn/learn-c-sharp)
+
+
+## Go
+### Free online courses
+- [Learn Go](https://www.codecademy.com/learn/learn-go)
+
+
+## HTML, CSS & Web Development
+See also: JavaScript
+
+### Free online courses - HTML
+- [Learn HTML](https://www.codecademy.com/learn/learn-html)
+
+### Free online courses - CSS
+- [Learn CSS](https://www.codecademy.com/learn/learn-css)
+- [Learn Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css)
+
+### Free online courses - General
+- [Learn A-Frame](https://www.codecademy.com/learn/learn-a-frame)
+
+
+## Java
+### Free online courses
+- [Learn Java](https://www.codecademy.com/learn/learn-java)
+- [Java: Introductions & Variables](https://www.codecademy.com/learn/java-introductions-and-variables)
+- [Java: Loops & Arrays](https://www.codecademy.com/learn/java-loops-and-arrays)
+- [Java: Going Further with Classes & Methods](https://www.codecademy.com/learn/java-going-further-with-classes-and-methods)
+- [Java: Object-Oriented Programming](https://www.codecademy.com/learn/java-object-oriented-programming)
+- [Java: Algorithms](https://www.codecademy.com/learn/java-algorithms)
+- [Java: Inheritance & Polymorphism](https://www.codecademy.com/learn/java-inheritance-and-polymorphism)
+- [Java: Conditionals & Control Flow](https://www.codecademy.com/learn/java-conditionals-and-control-flow)
+- [Java for Programmers](https://www.codecademy.com/learn/java-for-programmers)
+
+
+## JavaScript
+### Free online courses - General
+- [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Learn Intermediate JavaScript](https://www.codecademy.com/learn/learn-intermediate-javascript)
+
+### Free online courses - Libraries
+- [Learn ReactJS](https://www.codecademy.com/learn/react-101)
+- [Learn React Testing](https://www.codecademy.com/learn/learn-react-testing)
+- [Learn React Router](https://www.codecademy.com/learn/learn-react-router)
+- [Learn React Native](https://www.codecademy.com/learn/learn-react-native)
+- [Learn Redux](https://www.codecademy.com/learn/learn-redux)
+- [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript)
+- [Learn Node.js](https://www.codecademy.com/learn/learn-node-js)
+- [User Authentication & Authorization in Express](https://www.codecademy.com/learn/user-authentication-authorization-express)
+- [Learn Node-SQLite](https://www.codecademy.com/learn/learn-node-sqlite)
+- [Learn Game Development with Phaser.js](https://www.codecademy.com/learn/learn-phaser)
+- [Learn AngularJS 1.x](https://www.codecademy.com/learn/learn-angularjs)
+- [Learn p5.js](https://www.codecademy.com/learn/learn-p5js)
+- [Learn CSS-in-JS](https://www.codecademy.com/learn/learn-css-in-js)
+
+## Kotlin
+### Free online courses
+- [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin)
+
+
+## PHP
+### Free online courses
+- [Learn PHP](https://www.codecademy.com/learn/learn-php)
+
+
+## Python
+### Free online courses
+- [Learn Python 2](https://www.codecademy.com/learn/learn-python)
+- [Linear Regression in Python](https://www.codecademy.com/learn/linear-regression-mssp)
+- [Learn Object Oriented Programming with Python](https://www.codecademy.com/learn/learn-object-oriented-programming-with-python)
+
+### Projects, puzzles & exercises
+- [Build Connect 4 with Python](https://www.codecademy.com/learn/connect-four)
+
+
+## R
+### Free online courses
+- [Learn R](https://www.codecademy.com/learn/learn-r)
+- [R for Programmers](https://www.codecademy.com/learn/r-for-programmers)
+- [Learn Statistics with R](https://www.codecademy.com/learn/learn-statistics-with-r)
+- [Learn dplyr](https://www.codecademy.com/learn/learn-dplyr)
+
+
+## Ruby
+### Free online courses
+- [Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
+
+
+## Swift
+### Free online courses
+- [Learn Swift](https://www.codecademy.com/learn/learn-swift)
+- [Learn Intermediate Swift](https://www.codecademy.com/learn/learn-intermediate-swift)
