@@ -5,14 +5,19 @@
 - [Computation Structures](https://computationstructures.org/) - Introductory computer science course
 - [Getting Started Off Platform for Data Science](https://www.codecademy.com/learn/getting-started-off-platform-for-data-science)
 - [Learn X in Y Minutes: Dynamic Programming](https://learnxinyminutes.com/docs/dynamic-programming/)
+- [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x#.VJw54f-kAA)
 
 ### Free online courses - For absolute beginners
 - [Learn How to Code](https://www.codecademy.com/learn/learn-how-to-code)
 - [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity)
-- [Fundamentals of Operating Systems](https://www.codecademy.com/learn/fundamentals-of-operating-systems)
-
+- [Fundamentals of Operating Systems](https://www.codecademy.com/learn/fundamentals-of-operating-systems)\
+- [Scripting & Programming Foundations](https://www.edx.org/course/scripting-and-programming-foundations)
 
 ### Free online courses - Specific topics
+- [Intro to Algorithms](https://www.udacity.com/course/cs215)
+- [MIT OpenCourseWare: Intro to Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- [Algorithms](https://www.coursera.org/course/algo)
+- [Design & Analysis of Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/)
 - [Probability](https://www.codecademy.com/learn/probability-mssp)
 - [Learn X in Y Minutes: Lambda Calculus](https://learnxinyminutes.com/docs/lambda-calculus/)
 - [Differential Calculus](https://www.codecademy.com/learn/learn-differential-calculus)
@@ -25,19 +30,30 @@
 - [Learn X in Y Minutes: YAML](https://learnxinyminutes.com/docs/yaml/)
 - [Learn X in Y Minutes: Bash](https://learnxinyminutes.com/docs/bash/)
 - [Learn X in Y Minutes: Git](https://learnxinyminutes.com/docs/git/)
+- [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+- [Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook)
+- [Git & GitHub Crash Course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/)
+- [Git Tutorial](https://docs.github.com/en/get-started/quickstart/set-up-git)
 - [The Basics of Regex](https://www.codecademy.com/learn/introduction-to-regular-expressions)
 - [Learn SQL](https://www.codecademy.com/learn/learn-sql)
 - [Learn X in Y Minutes: SQL](https://learnxinyminutes.com/docs/sql/)
 - [Learn X in Y Minutes: Docker](https://learnxinyminutes.com/docs/docker/)
 - [Learn X in Y Minutes: JSON](https://learnxinyminutes.com/docs/json/)
+- [Selenium Basics](https://www.udemy.com/course/selenium-basics-step-by-step-for-beginners/)
 
 ### Books, information & study material
 - [Computer Science study guides](https://www.sparknotes.com/cs/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [CoderProg](https://coderprog.com/) - Free e-books about programming
+- [Computer Science PDF Library](https://g.sicp.me/books/)
 - [Xahlee](http://xahlee.info/) - A website with 3.7 thousand articles about mathematics and programming
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan
 - [EbookFoundation's list of free programming e-books](https://github.com/EbookFoundation/free-programming-books)
+- [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/)
+- [The Stony Brook Algorithm Repository](http://algs4.cs.princeton.edu/home/)
+- [Big-O Algorithm Complexity Cheatsheet](https://www.bigocheatsheet.com/)
+- [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/)
 
 ### Projects, puzzles & exercises
 - [Project Euler](https://projecteuler.net/) - Programming & mathematics puzzles
@@ -89,6 +105,7 @@ See also: JavaScript
 - [Learn X in Y Minutes: CSS](https://learnxinyminutes.com/docs/css/)
 
 ### Free online courses - General
+- [The Essential Web Developer Course](https://upskillcourses.com/courses/essential-web-developer-course)
 - [Learn A-Frame](https://www.codecademy.com/learn/learn-a-frame)
 
 
