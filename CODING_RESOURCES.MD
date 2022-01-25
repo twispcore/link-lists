@@ -65,20 +65,54 @@
 ### Free online courses - C
 - [Learn C](https://www.codecademy.com/learn/learn-c)
 - [Learn X in Y Minutes: C](https://learnxinyminutes.com/docs/c/)
+- [Practical Programming in C](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/)
+- [Effective Programming in C & C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/)
+- [Learn-C.org](http://learn-c.org/)
 
 ### Free online courses - C++
 - [Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
 - [C++ for Programmers](https://www.codecademy.com/learn/c-plus-plus-for-programmers)
 - [Learn X in Y Minutes: C++](https://learnxinyminutes.com/docs/c++/)
+- [Introduction to C Memory Management & C++ Object-Oriented Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/)
+- [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
+- [C++ for C Programmers](https://www.coursera.org/course/cplusplus4c)
 
 ### Free online courses - C#
 - [Learn C#](https://www.codecademy.com/learn/learn-c-sharp)
 - [Learn X in Y Minutes: C#](https://learnxinyminutes.com/docs/csharp/)
+- [C# Fundamentals for Absolute Beginners](https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169)
+
+### Books, information & study material
+- [C Programming Wikibook](http://en.wikibooks.org/wiki/C_Programming)
+- [The Definitive C Book Guide & List](http://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
+- [Think C++](http://greenteapress.com/thinkcpp/index.html)
+- [The C++ Tutorial](http://www.learncpp.com/)
+- [The Definitive C++ Book Guide & List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+- [C# Wikibook](http://en.wikibooks.org/wiki/C_Sharp_Programming)
+- [The C# Yellow Book](http://www.csharpcourse.com/)
+- [C# Essentials](http://www.techotopia.com/index.php/C_Sharp_Essentials)
 
 
 ## Elixir
 ### Free online courses
-[Learn X in Y Minutes: Elixir](https://learnxinyminutes.com/docs/elixir/)
+- [Learn X in Y Minutes: Elixir](https://learnxinyminutes.com/docs/elixir/)
+- [Elixir School](https://elixirschool.com/en)
+- [Pattern Matching - Thinking Elixir](https://thinkingelixir.com/available-courses/pattern-matching/)
+- [Elixir Koans](http://elixirkoans.io/)
+- [The Complete Elixir & Phoenix Bootcamp](https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/)
+
+### Books, information & study material
+- [Elixir Succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly)
+- [ElixirCasts](https://elixircasts.io/) - Elixir screencasts
+- [Alchemist Camp](https://alchemist.camp/) - Elixir screencasts
+- [Official Elixir documentation](https://elixir-lang.org/getting-started/introduction.html)
+
+### Projects, puzzles & exercises
+- [Elixir Exercises](https://exercism.org/tracks/elixir)
+
+### Miscellaneous
+- [Running in Production](https://runninginproduction.com/tags/elixir) - Podcast episodes about Elixir
+- [Elixir Forums](https://elixirforum.com/)
 
 
 ## Go
