@@ -11,9 +11,8 @@
 - [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity)
 - [Fundamentals of Operating Systems](https://www.codecademy.com/learn/fundamentals-of-operating-systems)
 
+
 ### Free online courses - Specific topics
-- [The Basics of Regex](https://www.codecademy.com/learn/introduction-to-regular-expressions)
-- [Learn SQL](https://www.codecademy.com/learn/learn-sql)
 - [Probability](https://www.codecademy.com/learn/probability-mssp)
 - [Learn X in Y Minutes: Lambda Calculus](https://learnxinyminutes.com/docs/lambda-calculus/)
 - [Differential Calculus](https://www.codecademy.com/learn/learn-differential-calculus)
@@ -21,6 +20,16 @@
 - [Discrete Math](https://www.codecademy.com/learn/discrete-math)
 - [Learn X in Y Minutes: Asymptotic Notations](https://learnxinyminutes.com/docs/asymptotic-notation/)
 - [Learn X in Y Minutes: Set Theory](https://learnxinyminutes.com/docs/set-theory/)
+- [Learn X in Y Minutes: Markdown](https://learnxinyminutes.com/docs/markdown/)
+- [Learn X in Y Minutes: XML](https://learnxinyminutes.com/docs/xml/)
+- [Learn X in Y Minutes: YAML](https://learnxinyminutes.com/docs/yaml/)
+- [Learn X in Y Minutes: Bash](https://learnxinyminutes.com/docs/bash/)
+- [Learn X in Y Minutes: Git](https://learnxinyminutes.com/docs/git/)
+- [The Basics of Regex](https://www.codecademy.com/learn/introduction-to-regular-expressions)
+- [Learn SQL](https://www.codecademy.com/learn/learn-sql)
+- [Learn X in Y Minutes: SQL](https://learnxinyminutes.com/docs/sql/)
+- [Learn X in Y Minutes: Docker](https://learnxinyminutes.com/docs/docker/)
+- [Learn X in Y Minutes: JSON](https://learnxinyminutes.com/docs/json/)
 
 ### Books, information & study material
 - [Computer Science study guides](https://www.sparknotes.com/cs/)
@@ -39,18 +48,32 @@
 ## C, C++ & C#
 ### Free online courses - C
 - [Learn C](https://www.codecademy.com/learn/learn-c)
+- [Learn X in Y Minutes: C](https://learnxinyminutes.com/docs/c/)
 
 ### Free online courses - C++
 - [Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
 - [C++ for Programmers](https://www.codecademy.com/learn/c-plus-plus-for-programmers)
+- [Learn X in Y Minutes: C++](https://learnxinyminutes.com/docs/c++/)
 
 ### Free online courses - C#
 - [Learn C#](https://www.codecademy.com/learn/learn-c-sharp)
+- [Learn X in Y Minutes: C#](https://learnxinyminutes.com/docs/csharp/)
+
+
+## Elixir
+### Free online courses
+[Learn X in Y Minutes: Elixir](https://learnxinyminutes.com/docs/elixir/)
 
 
 ## Go
 ### Free online courses
 - [Learn Go](https://www.codecademy.com/learn/learn-go)
+- [Learn X in Y Minutes: Go](https://learnxinyminutes.com/docs/go/)
+
+
+## Haskell
+### Free online courses
+- [Learn X in Y Minutes: Haskell](https://learnxinyminutes.com/docs/haskell/)
 
 
 ## HTML, CSS & Web Development
@@ -58,10 +81,12 @@ See also: JavaScript
 
 ### Free online courses - HTML
 - [Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [Learn X in Y Minutes: HTML](https://learnxinyminutes.com/docs/html/)
 
 ### Free online courses - CSS
 - [Learn CSS](https://www.codecademy.com/learn/learn-css)
 - [Learn Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css)
+- [Learn X in Y Minutes: CSS](https://learnxinyminutes.com/docs/css/)
 
 ### Free online courses - General
 - [Learn A-Frame](https://www.codecademy.com/learn/learn-a-frame)
@@ -70,6 +95,7 @@ See also: JavaScript
 ## Java
 ### Free online courses
 - [Learn Java](https://www.codecademy.com/learn/learn-java)
+- [Learn X in Y Minutes: Java](https://learnxinyminutes.com/docs/java/)
 - [Java: Introductions & Variables](https://www.codecademy.com/learn/java-introductions-and-variables)
 - [Java: Loops & Arrays](https://www.codecademy.com/learn/java-loops-and-arrays)
 - [Java: Going Further with Classes & Methods](https://www.codecademy.com/learn/java-going-further-with-classes-and-methods)
@@ -84,6 +110,7 @@ See also: JavaScript
 ### Free online courses - General
 - [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [Learn Intermediate JavaScript](https://www.codecademy.com/learn/learn-intermediate-javascript)
+- [Learn X in Y Minutes: JavaScript](https://learnxinyminutes.com/docs/javascript/)
 
 ### Free online courses - Libraries
 - [Learn ReactJS](https://www.codecademy.com/learn/react-101)
@@ -92,27 +119,45 @@ See also: JavaScript
 - [Learn React Native](https://www.codecademy.com/learn/learn-react-native)
 - [Learn Redux](https://www.codecademy.com/learn/learn-redux)
 - [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript)
+- [Learn X in Y Minutes: TypeScript](https://learnxinyminutes.com/docs/typescript/)
 - [Learn Node.js](https://www.codecademy.com/learn/learn-node-js)
 - [User Authentication & Authorization in Express](https://www.codecademy.com/learn/user-authentication-authorization-express)
 - [Learn Node-SQLite](https://www.codecademy.com/learn/learn-node-sqlite)
 - [Learn Game Development with Phaser.js](https://www.codecademy.com/learn/learn-phaser)
 - [Learn AngularJS 1.x](https://www.codecademy.com/learn/learn-angularjs)
+- [Learn X in Y Minutes: AngularJS](https://learnxinyminutes.com/docs/angularjs/)
 - [Learn p5.js](https://www.codecademy.com/learn/learn-p5js)
 - [Learn CSS-in-JS](https://www.codecademy.com/learn/learn-css-in-js)
+- [Learn X in Y Minutes: JQuery](https://learnxinyminutes.com/docs/jquery/)
+
 
 ## Kotlin
 ### Free online courses
 - [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin)
+- [Learn X in Y Minutes: Kotlin](https://learnxinyminutes.com/docs/kotlin/)
+
+
+## Lisp
+### Free online courses
+- [Learn X in Y Minutes: Common Lisp](https://learnxinyminutes.com/docs/common-lisp/)
+- [Learn X in Y Minutes: Clojure](https://learnxinyminutes.com/docs/clojure/)
+
+
+## Perl
+### Free online courses
+- [Learn X in Y Minutes: Perl](https://learnxinyminutes.com/docs/perl/)
 
 
 ## PHP
 ### Free online courses
 - [Learn PHP](https://www.codecademy.com/learn/learn-php)
+- [Learn X in Y Minutes: PHP](https://learnxinyminutes.com/docs/php/)
 
 
 ## Python
 ### Free online courses
 - [Learn Python 2](https://www.codecademy.com/learn/learn-python)
+- [Learn X in Y Minutes: Python](https://learnxinyminutes.com/docs/python/)
 - [Linear Regression in Python](https://www.codecademy.com/learn/linear-regression-mssp)
 - [Learn Object Oriented Programming with Python](https://www.codecademy.com/learn/learn-object-oriented-programming-with-python)
 
@@ -123,6 +168,7 @@ See also: JavaScript
 ## R
 ### Free online courses
 - [Learn R](https://www.codecademy.com/learn/learn-r)
+- [Learn X in Y Minutes: R](https://learnxinyminutes.com/docs/r/)
 - [R for Programmers](https://www.codecademy.com/learn/r-for-programmers)
 - [Learn Statistics with R](https://www.codecademy.com/learn/learn-statistics-with-r)
 - [Learn dplyr](https://www.codecademy.com/learn/learn-dplyr)
@@ -131,9 +177,20 @@ See also: JavaScript
 ## Ruby
 ### Free online courses
 - [Learn Ruby](https://www.codecademy.com/learn/learn-ruby)
+- [Learn X in Y Minutes: Ruby](https://learnxinyminutes.com/docs/ruby/)
+
+
+## Rust
+### Free online courses
+- [Learn X in Y Minutes: Rust](https://learnxinyminutes.com/docs/rust/)
 
 
 ## Swift
 ### Free online courses
 - [Learn Swift](https://www.codecademy.com/learn/learn-swift)
 - [Learn Intermediate Swift](https://www.codecademy.com/learn/learn-intermediate-swift)
+- [Learn X in Y Minutes: Swift](https://learnxinyminutes.com/docs/swift/)
+
+## Virtual Basic
+### Free online courses
+- [Learn X in Y Minutes: Virtual Basic](https://learnxinyminutes.com/docs/virtual-basic/)
