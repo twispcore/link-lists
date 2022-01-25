@@ -10,7 +10,7 @@
 ### Free online courses - For absolute beginners
 - [Learn How to Code](https://www.codecademy.com/learn/learn-how-to-code)
 - [Introduction to Cybersecurity](https://www.codecademy.com/learn/introduction-to-cybersecurity)
-- [Fundamentals of Operating Systems](https://www.codecademy.com/learn/fundamentals-of-operating-systems)\
+- [Fundamentals of Operating Systems](https://www.codecademy.com/learn/fundamentals-of-operating-systems)
 - [Scripting & Programming Foundations](https://www.edx.org/course/scripting-and-programming-foundations)
 
 ### Free online courses - Specific topics
